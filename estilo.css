@@ -132,7 +132,7 @@ body{
   top: 12,5em;
   left: 6.3em;
   width: 100%;
-  height: 25em;
+  height: 27em;
 }
 
 .cantinho-do-dev{
@@ -165,12 +165,21 @@ h2{
   cursor: pointer;
   box-shadow: 0 3px 3px #000000;
 }
-.container .img-cantinhodev{
-  width: 45%;
+
+.container1{
+  width: 61%;
   display: flex;
-  margin-top: -17em;
-  margin-left: 45em;
+  margin-top: -10em;
+  margin-left: 26em
 }
+
+.container2{
+  width: 50%;
+  display: flex;
+  margin-top: -10em;
+  margin-left: 22em
+} 
+
 
 .retangulo {
   width: 100%; 
